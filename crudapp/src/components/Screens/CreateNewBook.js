@@ -71,6 +71,7 @@ const CreateNewBook = ({books, setBooks}) => {
                         { whitespace: true },
                         ({getFieldValue}) => ({
                             validator(_, value) {
+                                //validate using regex
                                 if (value.match(/^[0-9._-]+$/) === null){
                                     return Promise.reject(new Error('ISBN only consists of numbers'))
                                 }
