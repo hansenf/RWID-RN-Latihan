@@ -1,15 +1,15 @@
 {
   "books": [
     {
+      "title": "Don't Make Me Think",
       "genre": "Non-fiction",
       "isbn": "978-0-321-96551-6",
-      "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web and Mobile Usability",
       "summary": "Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject."
     },
     {
+      "title": "100 Things Every Designer Needs to Know",
       "genre": "Non-fiction",
       "isbn": "978-0-321-76753-0",
-      "title": "100 Things Every Designer Needs to Know About People",
       "summary": "We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. Designing without understanding what makes people act the way they do is like exploring a new city without a map: results will be haphazard, confusing, and inefficient. This book combines real science and research with practical examples to deliver a guide every designer needs. With it you'll be able to design more intuitive and engaging work for print, websites, applications, and products that matches the way people think, work, and play. Learn to increase the effectiveness, conversion rates, and usability of your own design projects by finding the answers to questions such as: What grabs and holds attention on a page or screen? What makes memories stick? What is more important, peripheral or central vision? How can you predict the types of errors that people will make? What is the limit to someone's social circle? How do you motivate people to continue on to (the next step? What line length for text is best? Are some fonts better than others? These are just a few of the questions that the book answers in its deep-dive exploration of what makes people tick."
     },
     {
