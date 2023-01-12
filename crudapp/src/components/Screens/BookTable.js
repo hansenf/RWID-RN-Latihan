@@ -1,10 +1,9 @@
-import { Input, Table, Space } from "antd"
+import { Table, Space } from "antd"
 import React, { useEffect } from 'react'
 import EditBookButton from '../Buttons/EditBookButton'
 import CreateBookButton from '../Buttons/CreateBookButton'
 import DeleteBookButton from '../Buttons/DeleteBookButton'
 import ViewMoreButton from '../Buttons/ViewMoreButton'
-import { SearchOutlined } from '@ant-design/icons'
 import booksService from '../../services/booksService'
 
 const BookTable = ({books, setBooks}) => {
